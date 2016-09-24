@@ -1,0 +1,49 @@
+.mainwrapper {
+	height: 500px;
+	width: 800px;
+	margin-top: 80px;	
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 0;
+}
+
+.inner1 {
+ 	height: 200px;
+  	width: 50%;
+  	display: inline-block;
+  	font-size: 0;
+}
+
+.inner1-one{
+	background-color: green;
+	border:1px solid black;
+}
+
+.inner1-two{
+	background-color: blue;
+	border:1px solid black;
+}
+
+.inner2 {
+	height: 300px;
+  	width: 33.33%;
+  	display: inline-block;
+  	font-size: 0;
+}
+
+.inner2-one{
+	background-color: grey;
+	border:1px solid black;
+}
+
+.inner2-two{
+	background-color: black;
+	border:1px solid black;
+}
+
+.inner2-three{
+	background-color: orange;
+	border:1px solid black;
+}
+
+
